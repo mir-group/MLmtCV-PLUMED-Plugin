@@ -52,3 +52,7 @@ tf.saved_model.simple_save(sess, export_dir, inputs=inputs,             outputs=
 
 Complete example python codes to generate a simple ANN and save the model is in the "pysrc" folder.
 
+##Reference
+
+Please cite: "Multitask Machine Learning of Collective Variables for Enhanced Sampling of Rare Events", Lixin Sun*, Jonathan Vandermause, Simon Batzner, Yu Xie, David Clark, Wei Chen, and Boris Kozinsky*, J. Chem. Theory Comput. 2022, XXXX, XXX, XXX-XXX, https://pubs.acs.org/doi/10.1021/acs.jctc.1c00143
+
